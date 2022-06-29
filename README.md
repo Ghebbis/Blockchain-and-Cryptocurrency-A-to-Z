@@ -5,3 +5,9 @@ As I understand more about it, end-goal will be amended.
 The first resource I wish to take note of is this introductory vido to blockchain, by 3Blue1Brown:
 
 [![Watch the video](https://img.youtube.com/vi/bBC-nXj3Ng4/maxresdefault.jpg)](https://youtu.be/bBC-nXj3Ng4)
+
+After that, I decided to read the paper by Satoshi Nakamoto, available at this link: https://bitcoin.org/bitcoin.pdf.
+
+Eventually, I decided to look into a more structured course and stumbled upon this course on YT, which I am currently watching:
+
+[![Watch the video](https://img.youtube.com/vi/dn1QsirJ8gk/maxresdefault.jpg)](https://youtu.be/dn1QsirJ8gk)
