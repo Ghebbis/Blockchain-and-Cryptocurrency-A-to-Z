@@ -6,11 +6,10 @@ As I understand more about it, end-goal will be amended.
 
 [![Watch the video](https://img.youtube.com/vi/bBC-nXj3Ng4/0.jpg)](https://youtu.be/bBC-nXj3Ng4)
 
-2. After that, I decided to read the paper by Satoshi Nakamoto, available at this link: https://bitcoin.org/bitcoin.pdf.
-
-Eventually, I decided to look into a more structured course and stumbled upon this masterclass on YT, which I am currently watching:
+2. Eventually, I decided to look into a more structured course and stumbled upon this masterclass on YT, which I am currently watching:
 
 [![Watch the video](https://img.youtube.com/vi/dn1QsirJ8gk/0.jpg)](https://youtu.be/dn1QsirJ8gk)
 
-2.1 helpful references
-- How to time-stamp a digital document (Haber, Stornetta, 1991) https://link.springer.com/content/pdf/10.1007/BF00196791.pdf.
+Helpful references
+- Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." _Decentralized Business Review_ (2008): 21260. https://bitcoin.org/bitcoin.pdf.
+- Haber, Stuart, and W. Scott Stornetta. "How to time-stamp a digital document." _Conference on the Theory and Application of Cryptography_. Springer, Berlin, Heidelberg, 1990. https://link.springer.com/content/pdf/10.1007/BF00196791.pdf.
