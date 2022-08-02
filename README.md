@@ -11,5 +11,6 @@ A project containing any relevant resources I have used to gain insights and und
 
 ## Helpful references
 - Haber, Stuart, and W. Scott Stornetta. "How to time-stamp a digital document." _Conference on the Theory and Application of Cryptography_. Springer, Berlin, Heidelberg, 1990. [Link](https://link.springer.com/content/pdf/10.1007/BF00196791.pdf)
+- Lamport, L., Shostak, R., & Pease, M. (2019). The Byzantine generals problem. In _Concurrency: the works of leslie lamport_ (pp. 203-226).[Link](https://lamport.azurewebsites.net/pubs/byz.pdf)
 - Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." _Decentralized Business Review_ (2008): 21260. [Link](https://bitcoin.org/bitcoin.pdf)
 - Penard, Wouter, and Tim van Werkhoven. "On the secure hash algorithm family." _Cryptography in context_ (2008): 1-18. [Link](https://blog.infocruncher.com/resources/ethereum-whitepaper-annotated/On%20the%20Secure%20Hash%20Algorithm%20family%20(2008).pdf)
